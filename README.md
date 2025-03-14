@@ -31,7 +31,7 @@ This project is a solution to the freeCodeCamp "World Cup Database" challenge. I
 4. Insert data using `insert_data.sh`
 5. Run queries from `queries.sh`:
    ```sh
-  ./queries.sh
+     ./queries.sh
    ```
 
 ## Requirements
